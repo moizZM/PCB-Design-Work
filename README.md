@@ -1,5 +1,8 @@
 # Binary Watch (ATtiny1616)
 
+> **Inspired by:** taifur https://www.instructables.com/member/taifur/
+> [PCB Binary Watch – Instructables](https://www.instructables.com/PCB-Binary-Watch/)
+
 This project is a **Binary Digital Watch** designed in **KiCad** using an **ATtiny1616** microcontroller.  
 It displays the time using LEDs arranged in binary form, powered by a coin-cell battery and driven by a real-time clock (RTC).
 
