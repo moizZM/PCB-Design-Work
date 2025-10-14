@@ -1,7 +1,7 @@
 # USB-C Power Supply
 > 3D  viwe
->
-> <img width="438" height="470" alt="USB-C Power Supply correct way" src="https://github.com/user-attachments/assets/942fa11f-27ee-4ab7-af6f-745e009d5cb1" />
+
+ <img width="438" height="470" alt="USB-C Power Supply correct way" src="https://github.com/user-attachments/assets/942fa11f-27ee-4ab7-af6f-745e009d5cb1" />
 
 <img width="438" height="470" alt="USB-C Power Supply layout" src="https://github.com/user-attachments/assets/9d56daf3-6dff-4510-91b3-bffc93127122" />
 
